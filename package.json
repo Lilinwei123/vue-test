@@ -1,0 +1,40 @@
+{
+  "name": "vue-test",
+  "version": "1.0.0",
+  "description": "vue脚手架",
+  "private": true,
+  "scripts": {
+    "dev": "marax dev",
+    "build": "marax build",
+    "dll": "marax dll"
+  },
+  "dependencies": {
+    "@mfelibs/base-css": "^3.0.14",
+    "@mfelibs/base-tools-cutpic": "^1.0.11",
+    "@mfelibs/base-tools-exposure": "^1.2.2",
+    "@mfelibs/base-tools-feed-template": "^1.0.6",
+    "@mfelibs/base-tools-nph": "^1.0.12",
+    "@mfelibs/base-tools-sina-log": "^1.0.10",
+    "@mfelibs/base-tools-url2callupId": "^1.0.3",
+    "@mfelibs/base-tools-wifi": "^1.0.0",
+    "@mfelibs/base-utils": "^1.5.3",
+    "@mfelibs/common_feed": "^1.7.33",
+    "element-ui": "^2.4.3",
+    "jsonp": "^0.2.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "typescript": "^3.7.5",
+    "vue": "^2.5.3",
+    "vue-router": "^3.1.3"
+  },
+  "devDependencies": {
+    "webpack-marauder": "^1.12.4"
+  },
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "license": "MIT",
+  "author": "linwei3 <linwei3@staff.sina.com>",
+  "repository": "https://gitlab.weibo.cn/SINA_MFE/client-common-page.git"
+}
